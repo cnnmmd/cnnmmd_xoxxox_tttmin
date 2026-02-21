@@ -1,0 +1,9 @@
+{
+  "expert": "xoxxox/tttmin_002",
+  "dirprm": "/opt/strage/prm/gpt002",
+  "chaunk": "＊",
+  "maxtkn": 100,
+  "numtmp": 0.8,
+  "numtop": 20,
+  "chaend": ""
+}
