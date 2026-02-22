@@ -1,4 +1,4 @@
-# cnnmmd_xoxxox_tttsim
+# cnnmmd_xoxxox_tttmin
 
 [eng (English)](#Overview) | [jpn (日本語)](#概要)
 
@@ -10,7 +10,7 @@ This is a plugin for the following application:
 
 For more details, see:
 
-[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tttsim.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tttsim.htm)
+[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tttmin.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_tttmin.htm)
 
 ## 概要
 
@@ -20,4 +20,4 @@ For more details, see:
 
 詳細は、次を参照：
 
-[https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_tttsim.xht](https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_tttsim.xht)
+[https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_tttmin.xht](https://cnnmmd.xoxxox.net/doc/jpn/refmod_cnnmmd_xoxxox_tttmin.xht)
