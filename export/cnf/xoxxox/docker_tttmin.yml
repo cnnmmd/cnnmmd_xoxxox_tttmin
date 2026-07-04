@@ -8,7 +8,7 @@ services:
     container_name: xoxxox_tttmin
     volumes:
     - ../../../export:/opt/common
-    - ../../../strage:/opt/strage
+    - ../../../vol000:/opt/vol000
     - ../../../import/cnnmmd_xoxxox_envhgf/envhgf/hgf:/root/.cache/huggingface
     env_file:
     - ./envdir.txt

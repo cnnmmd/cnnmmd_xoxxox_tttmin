@@ -1,6 +1,6 @@
 {
   "expert": "xoxxox/tttmin_001",
-  "dirprm": "/opt/strage/prm/gpt001",
+  "dirprm": "/opt/vol000/prm/gpt001",
   "chaunk": "＊",
   "maxtkn": 100,
   "numtmp": 0.8,
